@@ -1,0 +1,20 @@
+{
+	"geode": "4.6.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+
+	"version": "v1.0.0",
+	"id": "undefined0.object_glow_in_editor",
+	"name": "Object Glow In Editor",
+	"developer": "undefined0",
+	"description": "A mod that shows object glow in editor what did you think?",
+	"tags": [ "editor" ],
+
+	"links": {
+		"source": "https://github.com/undefined06855/object-glow-in-editor"
+	}
+}

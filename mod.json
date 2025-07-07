@@ -1,24 +1,24 @@
 {
-	"geode": "4.6.0",
-	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
-	},
+    "geode": "4.6.0",
+    "gd": {
+        "win": "2.2074",
+        "android": "2.2074",
+        "mac": "2.2074",
+        "ios": "2.2074"
+    },
 
-	"version": "v1.0.0",
-	"id": "undefined0.object_glow_in_editor",
-	"name": "Object Glow In Editor",
-	"developer": "undefined0",
-	"description": "no but like what do you think this mod does",
-	"tags": [ "editor" ],
+    "version": "v1.0.0",
+    "id": "undefined0.object_glow_in_editor",
+    "name": "Object Glow In Editor",
+    "developer": "undefined0",
+    "description": "Shows object glow in the editor!",
+    "tags": [ "editor" ],
 
-	"links": {
-		"source": "https://github.com/undefined06855/object-glow-in-editor"
-	},
+    "links": {
+        "source": "https://github.com/undefined06855/object-glow-in-editor"
+    },
 
-	"dependencies": {
-		"geode.node-ids": "v1.21.1"
-	}
+    "dependencies": {
+        "geode.node-ids": "v1.21.1"
+    }
 }

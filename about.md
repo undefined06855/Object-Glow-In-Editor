@@ -3,9 +3,11 @@ by [undefined0](user:13351341)
 
 ---
 
-ok what do you think this mod does genuinely do you really need a mod
-description this shows object glow in the editor i dont think you can get
-simpler than that
+I want you to genuinely think hard, really hard about what on earth this mod
+could possibly do like could does this mod ever do I truly wonder sadly there
+are no mod names on the geode mod index so we may never know what this mod could
+do which is unfortunately very sad
 
-TODO: ok maybe write a better about.md and also you need a mod icon
-TODO: and also toggle in editor pause layer
+...but it does have a nice toggle in the pause menu!
+
+(why isn't this a vanilla feature?)

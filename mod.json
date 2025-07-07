@@ -11,10 +11,14 @@
 	"id": "undefined0.object_glow_in_editor",
 	"name": "Object Glow In Editor",
 	"developer": "undefined0",
-	"description": "A mod that shows object glow in editor what did you think?",
+	"description": "no but like what do you think this mod does",
 	"tags": [ "editor" ],
 
 	"links": {
 		"source": "https://github.com/undefined06855/object-glow-in-editor"
+	},
+
+	"dependencies": {
+		"geode.node-ids": "v1.21.1"
 	}
 }
